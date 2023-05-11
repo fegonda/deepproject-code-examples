@@ -1,4 +1,4 @@
-# CS230 Code Examples
+# CCS### Code Examples
 
 [Tutorials](https://cs230-stanford.github.io)
 
